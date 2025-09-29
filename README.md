@@ -32,11 +32,11 @@ The system helps universities manage the entire FYP process by providing differe
 
 ---
 
-👤 User Roles
+## 👤 User Roles
 
 - **Student:** Submit proposals, view feedback, and track progress.
 - **Lecturer (Supervisor):** Review, approve, and give feedback.
 - **Examiner:** Evaluate students’ work and record marks.
 
-## 📂 Project Structure  
+ 
 
